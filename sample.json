@@ -1,0 +1,16 @@
+frysAdData = {
+    "name":"Fry's Weekly Ad",
+    "dateScraped":"081117",
+    "pages": {
+        "Car Audio": [
+            "link": "https://www.frys.com",
+            "thumbnail":"https://images.frys.com/image.jpg",
+            "content":"<table>data</table>"
+        ],
+        "Desktops": [
+            "link": "https://www.frys.com",
+            "thumbnail":"https://images.frys.com/image.jpg",
+            "content":"<table>data</table>"
+        ],
+    }
+}
