@@ -20,7 +20,7 @@ def getIndex(driver):
     # Connect to the database
     connection = pymysql.connect(host='api.cmivxx.com',
                                  user='frysad',
-                                 password='m2JUXxwAeC59HWCn',
+                                 password='xxxxxxxxxx',
                                  db='cm_homep',
                                  charset='utf8mb4',
                                  cursorclass=pymysql.cursors.DictCursor)
