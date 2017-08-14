@@ -24,7 +24,7 @@ def getIndex(driver, driver2):
     adElem = {}
     pageContent = []
 
-    frysAdData = { "name":"Fry's Weekly Ad","dateScraped":today,"pages":[]}
+    frysAdData = { "name":"Fry's Weekly Ad","dateScraped":today,"pages":{}}
 
     driver.get("http://www.frys.com/ads/view-all-store-ads")
     parentElement = driver.find_element_by_class_name("items")
